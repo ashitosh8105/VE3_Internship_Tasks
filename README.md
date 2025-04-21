@@ -1,4 +1,4 @@
-Automation Testing Assignment
+Automation Testing Assignments
 #Project Name: swag Labs website
 #Objective
 Automate the testing of key functionalities on the sauce demo/Swag labs website 
